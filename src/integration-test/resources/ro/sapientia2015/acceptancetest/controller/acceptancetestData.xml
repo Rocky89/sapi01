@@ -1,0 +1,7 @@
+<dataset>
+    <acceptancetest id="1" creation_time="2012-10-21 11:13:28" description="Lorem ipsum" modification_time="2012-10-21 11:13:28" title="Foo" version="0"/>
+    <acceptancetest id="2" creation_time="2012-10-21 11:13:28" description="Lorem ipsum" modification_time="2012-10-21 11:13:28" title="Bar" version="0"/>
+    <acceptancetest id="1" creation_time="2012-10-21 11:13:28" description="Lorem ipsum" modification_time="2012-10-21 11:13:28" title="Bar" version="0"/>
+    <sprint_acceptancetests stories="1" sprint="1"/>
+</dataset>
+
